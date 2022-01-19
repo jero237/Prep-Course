@@ -225,6 +225,7 @@ function breakStatement(numero) {
     array.push(numero)
   }
   return array
+  
 }
 
 
